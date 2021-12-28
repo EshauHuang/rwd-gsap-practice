@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/rwd-gsap-practice/static/css/main.d33dd536.css",
+    "main.js": "/rwd-gsap-practice/static/js/main.e4fe7121.js",
+    "static/media/mockup.png": "/rwd-gsap-practice/static/media/mockup.7d8c7995718662d3d6f3.png",
+    "static/media/plane.png": "/rwd-gsap-practice/static/media/plane.fee1fe2a015d4071d663.png",
+    "static/media/laptop.png": "/rwd-gsap-practice/static/media/laptop.c095017822a1538ff647.png",
+    "index.html": "/rwd-gsap-practice/index.html",
+    "main.d33dd536.css.map": "/rwd-gsap-practice/static/css/main.d33dd536.css.map",
+    "main.e4fe7121.js.map": "/rwd-gsap-practice/static/js/main.e4fe7121.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d33dd536.css",
+    "static/js/main.e4fe7121.js"
+  ]
+}
